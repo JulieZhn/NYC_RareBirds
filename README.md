@@ -1,1 +1,1 @@
-# Soma_Birds_Final_Part1
+This is my final project of Prof.Soma's Foundations class.
